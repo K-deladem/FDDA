@@ -1,0 +1,905 @@
+deviceId;device_brand;device_model;device_types;gestureCode;sensor_name;sensor_type;sensor_type_name;sensor_vendor;valeur-1;valeur-2;valeur-3;valeur-4;valeur-5;z_timestamp
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377106376
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-3.3477167E-7;-3.0810807E-7;0.67719704;1722377106376
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111437
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111439
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111468
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.7358015;0.0;0.0;0.6771973;1722377111468
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111468
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111477
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.7358023;-1.2922189E-6;5.4577747E-8;0.6771965;1722377111477
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111497
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580223;-9.800415E-7;6.567552E-8;0.67719656;1722377111497
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111517
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.7358022;-8.0834184E-7;-4.016526E-8;0.6771966;1722377111518
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111518
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111537
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.7358021;-7.049308E-7;-1.5508166E-7;0.6771967;1722377111537
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111538
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580205;-6.3876615E-7;-2.4772638E-7;0.67719674;1722377111558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111577
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.735802;-5.9523177E-7;-3.1544755E-7;0.6771968;1722377111578
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111579
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111597
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580194;-5.661786E-7;-3.6297615E-7;0.67719686;1722377111597
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111617
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.7358019;-5.4664207E-7;-3.9572694E-7;0.6771969;1722377111618
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111618
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.7358018;-5.334516E-7;-4.18103E-7;0.677197;1722377111638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.2452714E-7;-4.3332966E-7;0.67719704;1722377111657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111658
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111677
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.1848224E-7;-4.4367158E-7;0.67719704;1722377111677
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111697
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.143856E-7;-4.5068956E-7;0.67719704;1722377111697
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111717
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.1160856E-7;-4.5544988E-7;0.67719704;1722377111718
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111718
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111738
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.097258E-7;-4.5867824E-7;0.67719704;1722377111738
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111738
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.084493E-7;-4.6086745E-7;0.67719704;1722377111757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111758
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0758376E-7;-4.6235186E-7;0.67719704;1722377111778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111797
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0699686E-7;-4.6335842E-7;0.67719704;1722377111797
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111799
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111817
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.065989E-7;-4.6404094E-7;0.67719704;1722377111817
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111818
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111837
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.063291E-7;-4.645037E-7;0.67719704;1722377111837
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111857
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0614614E-7;-4.648175E-7;0.67719704;1722377111857
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111858
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111877
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0602205E-7;-4.6503024E-7;0.67719704;1722377111877
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111878
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111897
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.059379E-7;-4.6517454E-7;0.67719704;1722377111897
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111898
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.058809E-7;-4.652724E-7;0.67719704;1722377111917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111918
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111937
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.058422E-7;-4.653387E-7;0.67719704;1722377111938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0581605E-7;-4.6538372E-7;0.67719704;1722377111957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111958
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111977
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0579825E-7;-4.6541422E-7;0.67719704;1722377111977
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111978
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377111997
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.057862E-7;-4.6543488E-7;0.67719704;1722377111997
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377111998
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112017
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.05778E-7;-4.654489E-7;0.67719704;1722377112017
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112037
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0577245E-7;-4.6545838E-7;0.67719704;1722377112038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.057687E-7;-4.6546484E-7;0.67719704;1722377112058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.057662E-7;-4.6546918E-7;0.67719704;1722377112078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576443E-7;-4.6547214E-7;0.67719704;1722377112098
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112098
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112117
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576324E-7;-4.654742E-7;0.67719704;1722377112117
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112137
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576244E-7;-4.6547555E-7;0.67719704;1722377112137
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112138
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112157
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.057619E-7;-4.6547646E-7;0.67719704;1722377112158
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112158
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112178
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576153E-7;-4.654771E-7;0.67719704;1722377112178
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112178
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.057613E-7;-4.654775E-7;0.67719704;1722377112197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112198
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112218
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576114E-7;-4.6547783E-7;0.67719704;1722377112218
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112218
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.05761E-7;-4.6547802E-7;0.67719704;1722377112238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576097E-7;-4.6547814E-7;0.67719704;1722377112258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112277
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.057609E-7;-4.6547822E-7;0.67719704;1722377112277
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112297
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547828E-7;0.67719704;1722377112297
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112298
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.654783E-7;0.67719704;1722377112317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112318
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112337
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112337
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112338
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112357
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112357
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112377
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112377
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112398
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112418
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112439
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112439
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112439
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112457
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112458
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112458
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112477
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112477
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112518
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112518
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112518
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112537
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112537
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112538
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112557
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112557
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112577
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112577
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112579
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112597
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112617
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112617
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112618
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112637
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112637
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112658
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112677
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112717
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112718
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112718
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112737
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112737
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112738
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112758
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112777
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112777
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112797
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112798
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112798
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112817
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112818
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112818
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112857
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112857
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112858
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112877
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112878
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112878
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112897
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112897
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112898
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112918
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112958
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112977
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112977
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112978
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377112997
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377112997
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377112998
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113017
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113037
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113077
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113077
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113098
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113117
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113117
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113137
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113137
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113138
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113157
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113157
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113158
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113178
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113178
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113178
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113198
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113217
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113218
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113218
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113277
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113298
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113298
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113298
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113318
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113337
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113337
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113338
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113357
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113398
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113418
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113437
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113437
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113438
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113457
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113457
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113458
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113477
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113517
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113518
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113519
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113538
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113538
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113538
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113557
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113557
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113577
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113578
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113578
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113617
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113617
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113618
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113637
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113637
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113658
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113677
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113697
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113697
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113718
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113718
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113718
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113737
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113737
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113738
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113758
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113777
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113777
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113797
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113798
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113798
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113817
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113818
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113818
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113837
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113837
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113857
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113857
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113858
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113878
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113878
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113878
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113897
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113897
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113898
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113918
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113958
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113977
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113978
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113978
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377113997
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377113998
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377113998
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114037
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114057
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114057
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114077
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114098
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114117
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114117
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114137
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114138
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114138
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114157
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114158
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114158
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114177
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114177
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114178
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114198
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114217
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114217
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114218
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114237
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114237
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114257
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114277
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114297
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114297
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114298
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114318
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114337
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114338
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114338
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114357
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114398
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114418
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114438
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114438
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114438
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114457
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114457
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114458
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114477
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114479
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114499
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114499
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114499
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114521
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114521
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114522
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114541
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114541
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114541
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114578
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114578
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114579
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114618
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114618
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114618
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114658
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114699
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114717
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114717
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114732
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114745
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114746
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114746
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114764
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114765
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114765
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114797
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114797
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114798
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114817
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114817
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114818
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114857
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114858
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114858
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114888
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114890
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114890
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114897
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114899
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114899
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114920
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114937
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114937
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114958
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114977
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114977
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114979
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377114997
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377114998
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377114998
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115017
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115017
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115037
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115037
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115057
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115057
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115077
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115098
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115138
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115138
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115139
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115157
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115157
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115158
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115177
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115177
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115178
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115198
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115217
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115217
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115218
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115237
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115237
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115239
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115297
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115298
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115298
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115318
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115338
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115338
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115338
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115377
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115398
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115418
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115437
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115437
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115438
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115457
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115458
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115458
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115477
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115497
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115517
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115517
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115518
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115537
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115537
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115538
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115577
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115577
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115578
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115597
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115597
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115617
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115617
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115618
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115637
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115637
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115658
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115677
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115677
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115697
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115717
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115717
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115718
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115737
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115737
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115738
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115758
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115777
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115798
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115798
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115798
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115817
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115817
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115818
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115838
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115857
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115857
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115858
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115877
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115877
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115878
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115898
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115898
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115898
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115918
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115937
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115937
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115957
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115958
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115977
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115978
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115978
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377115997
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377115997
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377115998
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116017
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116057
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116057
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116077
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116077
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116098
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116117
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116117
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116138
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116138
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116138
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116157
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116157
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116158
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116177
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116177
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116178
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116198
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116217
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116217
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116218
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116237
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116257
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116257
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116277
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116297
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116297
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116298
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116317
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116318
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116337
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116338
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116338
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116357
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116358
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116377
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116377
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116378
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116397
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116398
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116418
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116437
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116437
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116438
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116458
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116458
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116458
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116478
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116497
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116498
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116517
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116517
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116518
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116537
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116537
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116538
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116557
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116557
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116558
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116577
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116578
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116578
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116597
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116597
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116598
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116617
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116617
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116622
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116637
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116638
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116657
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116658
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116677
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116677
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116678
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116697
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116698
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116717
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116717
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116718
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116737
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116737
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116738
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116757
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116758
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116778
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116797
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116797
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116798
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116821
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116821
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116821
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116866
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116867
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116867
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116868
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116868
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116868
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116877
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116877
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116878
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116897
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116897
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116898
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116917
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116918
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116918
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116938
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116958
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116958
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116959
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377116978
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377116978
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377116978
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117000
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117000
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117000
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117017
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117018
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117038
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117058
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117059
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117078
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117097
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117098
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117118
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117142
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117167
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117176
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117176
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117176
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117176
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117188
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117189
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117189
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117197
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117198
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117217
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117217
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117218
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117237
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117237
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117238
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117257
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117257
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117258
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117277
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117278
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117297
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117297
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117298
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117318
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117319
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117320
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117349
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117351
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117353
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117361
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117362
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117362
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117395
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117396
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117396
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117401
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117402
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117402
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117417
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117418
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117418
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Accelerometer;1.0;Accelerometer;The Android Open Source Project;0.812345;9.776321;0.0;;;1722377117437
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;GeoMag Rotation Vector Sensor;20.0;Geomagnetic Rotation Vector;AOSP;0.0;0.73580176;-5.0576085E-7;-4.6547837E-7;0.67719704;1722377117438
+d6c11b31b2c91d62;Google;Sdk_gwear_arm64;Wear OS;Swipe 001;Goldfish 3-axis Gyroscope;4.0;Gyroscope;The Android Open Source Project;0.0;0.0;0.0;;;1722377117439
